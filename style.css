@@ -1,0 +1,19 @@
+CTYPE <html>
+    <html>
+        <body>
+            <h1>corso html</h1>
+            <p>
+                buon corso a tutti
+            </p>
+            <ul>gli argomenti che tratteremo sono:</ul>
+            <li>Html</li>
+            <li>Css</li>
+            <li>Javascript</li>
+            <img src="html.jpg" alt="">
+        </body>
+    </html>body {
+    background-color: #61b94d;
+    font-family: Arial, Helvetica, sans-serif;
+    
+
+}}{}}
